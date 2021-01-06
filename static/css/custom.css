@@ -1,0 +1,12 @@
+:root {
+  --maincolor: #14bdfd;
+}
+
+p {
+  font-family: 'Roboto Mono', monospace;
+}
+
+a:hover {
+  background-color: var(--maincolor);
+  color: white;
+}

@@ -1,0 +1,24 @@
++++
+title = "About"
+description = "Everyone loves talking about themselves"
+date = "2021-01-04"
+aliases = ["about-me"]
+author = "June Jun"
++++
+
+Oh, hey there!
+I am June.
+
+Well, my actual name is Poh Chi Jun, which is a Malaysia-variant Chinese name.
+("Poh" is my family name)
+
+I spend most of my time playing video games
+and when I'm not you will probably find me napping somewhere else.
+
+In the rare occassion that I'm doing neither of those activites,
+I would spend my time on piano practicing, book reading,
+or screwing around with some side projects (like updating this site).
+
+Feel free to reach out to me at <pcjun97@gmail.com>
+or send me a tweet me on [twitter](twitter.com/pcjun97).
+Also, you can find my resume [here](https://drive.google.com/file/d/1pXgO7HZYTkdBzGiWOW7gv5Hlf6eEPpNE).

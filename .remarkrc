@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "bullet": "-",
+    "listItemIndent": "one"
+  },
+  "plugins": {
+    "frontmatter": ["yaml", "toml"]
+  }
+}

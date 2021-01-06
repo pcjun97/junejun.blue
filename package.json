@@ -1,0 +1,20 @@
+{
+  "name": "junejun.blue",
+  "version": "1.0.0",
+  "description": "June's website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcjun97/junejun.blue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcjun97/junejun.blue/issues"
+  },
+  "homepage": "https://github.com/pcjun97/junejun.blue#readme",
+  "devDependencies": {
+    "remark-cli": "^9.0.0",
+    "remark-frontmatter": "^3.0.0",
+    "remark-shortcodes": "^0.3.1"
+  }
+}
