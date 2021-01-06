@@ -20,5 +20,5 @@ I would spend my time on piano practicing, book reading,
 or screwing around with some side projects (like updating this site).
 
 Feel free to reach out to me at <pcjun97@gmail.com>
-or send me a tweet me on [twitter](twitter.com/pcjun97).
+or send me a tweet me on [twitter](https://twitter.com/pcjun97).
 Also, you can find my resume [here](https://drive.google.com/file/d/1pXgO7HZYTkdBzGiWOW7gv5Hlf6eEPpNE).
