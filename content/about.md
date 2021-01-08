@@ -22,4 +22,4 @@ or screwing around with some [side projects](https://github.com/pcjun97)
 
 Feel free to reach out to me at <pcjun97@gmail.com>
 or send me a tweet me on [twitter](https://twitter.com/pcjun97).
-Also, you can find my resume [here](https://drive.google.com/file/d/1pXgO7HZYTkdBzGiWOW7gv5Hlf6eEPpNE).
+Also, you can find my resume [here](/resume.pdf).
