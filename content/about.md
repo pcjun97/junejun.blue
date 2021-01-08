@@ -13,7 +13,7 @@ Well, my actual name is Poh Chi Jun, which is a Malaysia-variant Chinese name
 ("Poh" is my family name).
 
 I spend most of my time playing video games
-and when I'm not you will probably find me napping somewhere else.
+and when I'm not, you will probably find me napping somewhere else.
 
 In the rare occassion that I'm doing neither of those activites,
 I would spend my time on piano practicing, book reading,
