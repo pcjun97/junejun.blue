@@ -15,7 +15,7 @@ paginate=5 # articles per page
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "dev | study | reviews | life"
   customCSS = ["css/custom.css"]
-  favicon = "favicon.ico"
+  favicon = "/favicon.ico"
 
 # Social Tags
 
